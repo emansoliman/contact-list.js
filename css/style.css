@@ -1,0 +1,77 @@
+input{
+    display: inline;
+    padding: 2px;
+    margin: 16px;
+    margin-left:5%;
+
+}
+label{
+
+    padding: 10px;
+   
+   
+}
+#lab1{
+   margin-left:17%;
+}
+
+#lab2{
+    margin-left:18%;
+ }
+ #lab3{
+    margin-left:4%
+ }
+form{
+
+    margin: 8%;
+}
+button{
+    display: block;
+    float:right;
+     
+     margin-right:30%;
+     color: white;
+     background-color:green;
+     width:8%;
+     padding:6px;
+     text-align: center;
+     border: solid 2px black;
+}
+table {
+    font-family: arial, sans-serif;
+     width:60%;
+    margin-left:16%;
+  
+    border: 3px solid crimson;
+  }
+  
+   th {
+    
+    text-align: left;
+    padding: 4px;
+    
+  }
+ 
+ 
+  td{
+      background-color:white; 
+      text-align: left;
+      padding: 4px;
+
+  }
+
+  
+  #heder{
+     
+      
+      background-color: crimson;
+      color: white;
+      
+  }
+i{
+    
+    margin-left: 20%;
+    color: lightslategray;
+ 
+    }
+ 
